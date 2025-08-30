@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 // Настройки WiFi
-const char* ssid = "wifi ssd";
-const char* password = "wifi pass";
+const char* ssid = "wifi ssd"; // wifi ssd
+const char* password = "wifi pass"; // wifi password
 
 // Используем GPIO0 (Pin 5)
 const int relayPin = 0;
